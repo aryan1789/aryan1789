@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me:
+Final Year Software Engineering Student
 
-<!--
-**aryan1789/aryan1789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in full-stack development, agentic development and machine learning
+Currently exploring Machine Learning and AI integrations
 
-Here are some ideas to get you started:
+Seeking full time graduate roles and freelancing opportunities
+You can contact me at aryanshahnz@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+<a href="https://www.linkedin.com/in/aryan--shah/"><img src="https://www.dreamstime.com/isolated-linkedin-logo-vector-illustration-icon-minsk-belarus-march-image142909970"/></a>
+
+💻 Tech Stack:
+React, Typescript, HTML5, TailwindCSS, Java, C++, Python, Flask
